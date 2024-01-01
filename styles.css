@@ -1,0 +1,13 @@
+.centered {
+    text-align: center;
+}
+
+.colored {
+    background-color: beige;
+    color: yellowgreen;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+    
